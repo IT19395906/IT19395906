@@ -1,5 +1,5 @@
 👋 Hi, I’m Ravithamara Wijayabandu 3rd year undergraduate in SLIIT
-Softwrae Engineer, Software Developer
+🤔 Software Engineer, Software Developer
 👀 I’m interested in MERN stack projects
 🌱 I’m currently learning React
 💞️ I’m looking to collaborate on javaScript
