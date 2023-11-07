@@ -14,7 +14,7 @@ I enjoy working with MERN stack projects
 - **Databases**: MongoDB, SQL server, MySql
 - **Version Control**: Git, GitHub, GitLab
 - **Development Tools**: Visual Studio Code, Postman
-- **Methodologies**: Agile, Scrum
+- **Methodologies**: Agile
 <!---
 IT19395906/IT19395906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
