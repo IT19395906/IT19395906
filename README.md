@@ -29,7 +29,7 @@ I enjoy working with MERN stack projects
 
 | ![Ravithamara's github stats](https://github-readme-stats.vercel.app/api?username=it19395906&show_icons=true&theme=tokyonight) | ![Ravithamara GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=it19395906&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it19395906&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=it19395906&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it19395906&theme=tokyonight) |
 
 <!---
 IT19395906/IT19395906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
