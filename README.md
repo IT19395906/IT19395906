@@ -25,8 +25,6 @@ I enjoy working with MERN stack projects
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=it19395906&show_icons=true&locale=en&layout=compact" alt="it19395906" /></p>
 
-[![Ravithamara's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=it19395906&theme=tokyonight)](https://git.io/praveenscience)
-
 | ![Ravithamara's github stats](https://github-readme-stats.vercel.app/api?username=it19395906&show_icons=true&theme=tokyonight) | ![Ravithamara GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=it19395906&theme=tokyonight) |
 | --- | --- |
 
