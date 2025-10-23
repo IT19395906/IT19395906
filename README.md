@@ -13,11 +13,11 @@ I enjoy working with MERN stack projects
 
 ## My Tech Stack
 
-- **Front-End**: HTML, CSS, JavaScript, React
-- **Back-End**: Java, Node.js, Express
+- **Front-End**: React.js, Angular, TypeScript, Next.js, HTML, CSS/SCSS, Jquery, JavaScript, Bootstrap 
+- **Back-End**: Java, Node.js, Express.js, Spring boot
 - **Databases**: MongoDB, SQL server, MySql
 - **Version Control**: Git, GitHub, GitLab
-- **Development Tools**: Visual Studio Code, Postman
+- **Development Tools**: Visual Studio Code, Eclipse, Intelij, Postman
 - **Methodologies**: Agile
 
 <h3 align="left">Languages and Tools:</h3>
